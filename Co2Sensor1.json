@@ -1,0 +1,552 @@
+[
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:33:24",
+            "CO2": 497.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:33:24"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:33:34",
+            "CO2": 497.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:33:34"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:33:44",
+            "CO2": 494.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:33:44"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:33:54",
+            "CO2": 502.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:33:54"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:04",
+            "CO2": 487.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:04"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:14",
+            "CO2": 489.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:14"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:24",
+            "CO2": 487.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:24"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:34",
+            "CO2": 492.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:34"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:44",
+            "CO2": 489.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:44"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:54",
+            "CO2": 492.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:54"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:04",
+            "CO2": 486.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:04"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:14",
+            "CO2": 487.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:14"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:24",
+            "CO2": 489.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:24"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:34",
+            "CO2": 486.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:34"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:44",
+            "CO2": 487.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:44"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:54",
+            "CO2": 499.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:54"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:04",
+            "CO2": 492.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:04"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:14",
+            "CO2": 479.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:14"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:24",
+            "CO2": 483.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:24"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:34",
+            "CO2": 473.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:34"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:44",
+            "CO2": 476.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:44"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:54",
+            "CO2": 473.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:54"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:04",
+            "CO2": 481.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:04"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:14",
+            "CO2": 488.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:14"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:24",
+            "CO2": 499.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:24"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:34",
+            "CO2": 486.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:34"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:44",
+            "CO2": 486.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:44"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:54",
+            "CO2": 487.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:54"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:04",
+            "CO2": 483.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:04"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:14",
+            "CO2": 481.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:14"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:24",
+            "CO2": 477.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:24"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:34",
+            "CO2": 486.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:34"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:44",
+            "CO2": 492.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:44"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:54",
+            "CO2": 494.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:54"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:04",
+            "CO2": 499.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:04"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:14",
+            "CO2": 493.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:14"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:24",
+            "CO2": 499.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:24"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:34",
+            "CO2": 492.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:34"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:44",
+            "CO2": 489.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:44"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:54",
+            "CO2": 486.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:54"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:04",
+            "CO2": 486.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:04"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:14",
+            "CO2": 487.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:14"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:24",
+            "CO2": 489.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:24"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:34",
+            "CO2": 496.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:34"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:44",
+            "CO2": 492.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:44"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:54",
+            "CO2": 494.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:54"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:41:04",
+            "CO2": 494.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:41:04"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:41:14",
+            "CO2": 487.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:41:14"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:41:24",
+            "CO2": 488.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:41:24"
+        }
+    },
+    {
+        "sensor": "CO2_sensor_1",
+        "type": "CO2",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:41:34",
+            "CO2": 487.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:41:34"
+        }
+    }
+]
