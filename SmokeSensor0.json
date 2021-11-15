@@ -1,0 +1,552 @@
+[
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:33:24",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:33:24"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:33:34",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:33:34"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:33:44",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:33:44"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:33:54",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:33:54"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:04",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:04"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:14",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:14"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:24",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:24"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:34",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:34"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:44",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:44"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:34:54",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:34:54"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:04",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:04"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:14",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:14"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:24",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:24"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:34",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:34"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:44",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:44"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:35:54",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:35:54"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:04",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:04"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:14",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:14"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:24",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:24"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:34",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:34"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:44",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:44"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:36:54",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:36:54"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:04",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:04"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:14",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:14"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:24",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:24"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:34",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:34"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:44",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:44"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:37:54",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:37:54"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:04",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:04"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:14",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:14"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:24",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:24"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:34",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:34"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:44",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:44"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:38:54",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:38:54"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:04",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:04"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:14",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:14"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:24",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:24"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:34",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:34"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:44",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:44"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:39:54",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:39:54"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:04",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:04"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:14",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:14"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:24",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:24"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:34",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:34"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:44",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:44"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:40:54",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:40:54"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:41:04",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:41:04"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:41:14",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:41:14"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:41:24",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:41:24"
+        }
+    },
+    {
+        "sensor": "Smoke_sensor_0",
+        "type": "Smoke",
+        "data": {
+            "id": "5ef5c0ea74de2",
+            "date": "2020-06-26 11:41:34",
+            "Smoke": 0.0,
+            "label": null,
+            "location": "Parking_Bloc_C: 2020-06-26 11:41:34"
+        }
+    }
+]
